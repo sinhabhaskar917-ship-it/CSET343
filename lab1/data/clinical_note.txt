@@ -1,0 +1,6 @@
+
+Patient is a 58 year old male.
+Patient reports chest pain and shortness of breath.
+Blood pressure is elevated.
+Patient has high cholesterol.
+ECG examination is recommended.
