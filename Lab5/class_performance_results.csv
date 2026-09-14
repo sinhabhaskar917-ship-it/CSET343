@@ -1,0 +1,7 @@
+Class,Disease,Precision,Recall,F1 Score,Support
+1,Psoriasis,1.0,1.0,1.0,23.0
+2,Seboreic Dermatitis,0.9166666666666666,0.9166666666666666,0.9166666666666666,12.0
+3,Lichen Planus,1.0,1.0,1.0,15.0
+4,Pityriasis Rosea,0.9,0.9,0.9,10.0
+5,Cronic Dermatitis,1.0,1.0,1.0,10.0
+6,Pityriasis Rubra Pilaris,1.0,1.0,1.0,4.0
